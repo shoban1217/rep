@@ -13,3 +13,11 @@ git STASH
 =======
 Now working on GIT STASH: 
 >>>>>>> Stashed changes
+
+<<<<<<< Updated upstream
+hello
+lfksdakjfslf,sd;f';
+=======
+git stash
+
+>>>>>>> Stashed changes
